@@ -17,6 +17,8 @@ header_pages:
   - about.md
 
 
+paginate: 5
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
