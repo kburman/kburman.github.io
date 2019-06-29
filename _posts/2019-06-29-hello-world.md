@@ -14,7 +14,6 @@ Reading the book on Information Retrieval. I get really excited about this topic
 #### 2:15 am
 I'm so much excited just by thinking that finally i would start my blog that I stopped reading the book and started setting up the blog in my system.
 
-
 #### 4 am
 Finally got everything working. BTW I wasn't even aware that we can push jekyll code directly to the github repo and github would build the site and then host it.
 I used to think of GitHub pages as proxy to raw.githubcontent.com but turns out it not works like that.

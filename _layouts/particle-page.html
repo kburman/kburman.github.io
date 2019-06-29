@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<style>
+  canvas {
+    display: block;
+    vertical-align: bottom;
+  }
+
+  #particles-js {
+    position: absolute;
+    width: 100%;
+    height: 90%;
+  }
+
+</style>
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
+
+<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+<script>
+  particlesJS.load("particles-js", "/assets/json/particle-js.json");
+</script>
