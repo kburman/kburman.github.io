@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Hello world
+layout: post
 categories:
 - journal
 tags:
@@ -8,6 +8,7 @@ tags:
 - june
 date: 2019-06-29 05:38 +0530
 ---
+
 #### 2 am
 Reading the book on Information Retrieval. I get really excited about this topic and planned to write a series of blog post to explain the concept in simpler and organized way. Atleast that what I hope for.
 
