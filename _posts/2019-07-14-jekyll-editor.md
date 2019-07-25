@@ -3,6 +3,7 @@ title: Jekyll Editor
 layout: post
 categories:
 - journal
+- jekyll-editor
 tags:
 - 2019
 - July
