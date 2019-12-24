@@ -49,7 +49,7 @@ It normal for you to be confused with the difference between `QEMU` and `Virtual
 ### MISC
 
 #### Dockercross with nasm
-Create docker file with following content
+Create a docker file with the following content
 
 ```plain
 # Dockerfile
