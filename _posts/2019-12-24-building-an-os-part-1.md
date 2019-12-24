@@ -10,7 +10,7 @@ tags:
 - dockercross
 - qemu
 - virtual-box
-date: 2019-12-24 00:00 +0000
+date: 2019-12-24 00:00 +0530
 ---
 Before we can start with the coding part you would need some of the tools to build and run our OS.
 Generally, this setting up cross compiler setup with other tools for OS development is very much platform-dependent and required you to know a lot of things even before you start. 

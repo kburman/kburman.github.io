@@ -10,7 +10,7 @@ tags:
 - qemu
 - nasm
 - bootloader
-date: 2019-12-25 00:00 +0000
+date: 2019-12-25 00:00 +0530
 ---
 ### When you press the power button
 It all starts with you pressing the power button. A signal is passed to your motherboard and it's the forward signal to PSU (Power Supply Unit) and it starts powering the rest of the system if PSU is able to supply power without any major problem it sends a `power_good` signal to motherboard BIOS. BIOS then runs BIOS POST(Power on self-test) and a lot of other things. 
