@@ -25,3 +25,4 @@ One thing is clear it would take a lot of effort to build this thing in mac.
 
 Anyways I would now be starting my project taking help from the very first commit of lillt OS.
 Learning from this I would be automating the build process using docker.
+<!--more-->

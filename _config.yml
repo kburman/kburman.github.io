@@ -12,13 +12,14 @@ markdown: kramdown
 theme: minima
 permalink: pretty
 header_pages:
-  - project.md
+  - projects.md
   - resume.md
   - about.md
 
 
 paginate: 5
-
+show_excerpts: true
+excerpt_separator: <!--more-->
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -28,6 +29,9 @@ disqus:
 
 google_analytics: UA-110991819-1
 
+collections:
+  projects:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

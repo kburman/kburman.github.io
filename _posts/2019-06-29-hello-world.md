@@ -22,3 +22,4 @@ I used to think of GitHub pages as proxy to raw.githubcontent.com but turns out 
 It simplified my work flow so much. 
 
 Finally finished writing this blog. Actually I wrote a different one by system got restarted and lost all the changes. Yes, I know it would auto save but i guess i luck was not with me this time.
+<!--more-->
