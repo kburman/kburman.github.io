@@ -1,10 +1,12 @@
 ---
-layout: post
-title: 'Building an OS: Part 2 - Let''s write a bootloader'
+layout: series
+series_title: "Building an OS"
+title: 'Let''s write a bootloader'
+chapter: 2
+author: "Kshitij Burman"
 categories:
 - tutorial
 - os-dev
-chapter: 2
 tags:
 - dockercross
 - qemu

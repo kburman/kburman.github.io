@@ -1,6 +1,7 @@
 ---
 title: Hello world
 layout: post
+author: "Kshitij Burman"
 categories:
 - journal
 tags:

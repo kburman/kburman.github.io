@@ -1,10 +1,12 @@
 ---
-layout: post
-title: 'Building an OS: Part 1 - Setup'
+layout: series
+series_title: "Building an OS"
+title: 'Environment Setup'
+chapter: 1
+author: "Kshitij Burman"
 categories:
 - tutorial
 - os-dev
-chapter: 1
 tags:
 - setup
 - dockercross
@@ -26,7 +28,10 @@ In this series, I try to make OS development platform-independent using docker f
 - Any text editor (I will suggest `Sublime Text`)
 - [Vagrant Manager](http://vagrantmanager.com/) (Optional)
 
-Apart from these, this series expect that you know programming and curious enough to learn more.
+Apart from these, this series expect that you know following things
+- Have done some programming before.
+- Atleast have heard about CPU registers.
+
 <!--more-->
 
 

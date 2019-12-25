@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Compiling lillit OS in macos
+author: "Kshitij Burman"
 categories:
 - journal
 tags:
