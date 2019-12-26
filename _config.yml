@@ -29,10 +29,6 @@ disqus:
 
 google_analytics: UA-110991819-1
 
-collections:
-  projects:
-    output: true
-
 timezone: Asia/Kolkata
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

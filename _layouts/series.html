@@ -2,9 +2,15 @@
 layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-    <h2 class="p-name" itemprop="name headline">{{ page.series_title | escape }}</h2>
+    <a href="{{ "/projects/" |append: '#' | append: page.project_slug }}">
+        <h2 class="p-name" itemprop="name headline">{{ site.data.projects[page.project_slug]['display_name'] | escape }}</h2>
+    </a>
+
     <header class="post-header">
-        <h1 class="post-title p-name" itemprop="name headline"><span style="color: gray;">#{{ page.chapter }}</span> {{ page.title | escape }}</h1>
+        <h1 class="post-title p-name" itemprop="name headline">
+            <span style="color: gray;">
+                #{{ page.chapter }}
+            </span> {{ page.title | escape }}</h1>
         <p class="post-meta">
             <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

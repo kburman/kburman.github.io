@@ -1,6 +1,6 @@
 ---
 layout: series
-series_title: "Building an OS"
+project_slug: os-dev
 title: 'Environment Setup'
 chapter: 1
 author: "Kshitij Burman"

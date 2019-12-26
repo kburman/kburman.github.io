@@ -1,6 +1,6 @@
 ---
 layout: series
-series_title: Building an OS
+project_slug: os-dev
 title: 'Hello World from bootloader '
 author: Kshitij Burman
 chapter: 3

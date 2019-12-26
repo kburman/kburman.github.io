@@ -1,6 +1,6 @@
 ---
 layout: series
-series_title: "Building an OS"
+project_slug: os-dev
 title: 'Let''s write a bootloader'
 chapter: 2
 author: "Kshitij Burman"
