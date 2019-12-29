@@ -153,7 +153,6 @@ print_done:
 main:
   MOV AX, 0
   MOV DS, AX
-  MOV ES, AX
 
   MOV SI, msg
   CALL print_string
