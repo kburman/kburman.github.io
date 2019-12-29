@@ -27,7 +27,7 @@ plugins:
 disqus:
   shortname: kblog-github
 
-google_analytics: UA-110991819-1
+google_analytics: UA-110991819-3
 
 timezone: Asia/Kolkata
 # Exclude from processing.
