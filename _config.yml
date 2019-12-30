@@ -3,7 +3,7 @@ email: kburman6@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   All the random and crazy things i can do.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kburman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kburman.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kburman6
 github_username:  kburman
 
@@ -23,6 +23,7 @@ excerpt_separator: <!--more-->
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-toc
 
 disqus:
   shortname: kblog-github
@@ -30,9 +31,6 @@ disqus:
 google_analytics: UA-110991819-3
 
 timezone: Asia/Kolkata
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
 exclude:
   - README.md
   - Gemfile
