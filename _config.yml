@@ -26,11 +26,26 @@ plugins:
   - jekyll-toc
   - jekyll-seo-tag
   - jekyll-avatar
+  - jekyll-archives
 
 disqus:
-  shortname: kblog-github
+  shortname: kblog-dev
 
 google_analytics: UA-110991819-3
+
+
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: categories
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
 
 timezone: Asia/Kolkata
 exclude:

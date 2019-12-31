@@ -42,6 +42,8 @@ GEM
       jekyll (~> 3.3)
       sinatra (~> 1.4)
       sinatra-contrib (~> 1.4)
+    jekyll-archives (2.2.1)
+      jekyll (>= 3.6, < 5.0)
     jekyll-assets (3.0.12)
       activesupport (~> 5.0)
       execjs (~> 2.7)
@@ -137,6 +139,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-admin
+  jekyll-archives
   jekyll-assets
   jekyll-avatar
   jekyll-browsersync
